@@ -1,1 +1,73 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#181926"/>
+      <stop offset="0.55" stop-color="#1E2030"/>
+      <stop offset="1" stop-color="#181926"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="0" x2="1020" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A669D"/>
+      <stop offset="0.5" stop-color="#C6A0F6"/>
+      <stop offset="1" stop-color="#7A669D"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#7A669D" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+  </defs>
 
+  <rect x="1" y="1" width="1198" height="318" rx="22" fill="url(#bg)" stroke="#7A669D" stroke-opacity="0.65" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="316" rx="21" fill="url(#grid)"/>
+
+  <path d="M36 70H1164" stroke="#7A669D" stroke-opacity="0.45"/>
+  <circle cx="42" cy="35" r="6" fill="#7A669D"/>
+  <circle cx="64" cy="35" r="6" fill="#B291DE"/>
+  <circle cx="86" cy="35" r="6" fill="#C6A0F6"/>
+
+  <text x="120" y="41" fill="#7A669D" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="3">
+    AI_CORE // PROFILE INITIALIZATION
+  </text>
+
+  <text x="60" y="118" fill="#7A669D" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="2">
+    &gt; boot --identity
+  </text>
+
+  <text x="60" y="180" fill="#CAD3F5" font-size="48" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="2">
+    @clara-paterno
+  </text>
+
+  <text x="60" y="218" fill="#C6A0F6" font-size="19" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="4" filter="url(#glow)">
+    ENGINEERING × SOFTWARE × AUTOMATION
+  </text>
+
+  <line x1="60" y1="244" x2="1140" y2="244" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.75"/>
+
+  <text x="60" y="279" fill="#7A669D" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    CORE: ONLINE
+  </text>
+  <text x="240" y="279" fill="#7A669D" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    MODE: BUILD
+  </text>
+  <text x="390" y="279" fill="#7A669D" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    SIGNAL: STABLE
+  </text>
+
+  <rect x="1035" y="266" width="103" height="20" rx="10" fill="#C6A0F6" fill-opacity="0.10" stroke="#C6A0F6" stroke-opacity="0.7"/>
+  <circle cx="1051" cy="276" r="4" fill="#C6A0F6">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1063" y="281" fill="#C6A0F6" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    READY
+  </text>
+
+  <rect x="0" y="72" width="1200" height="3" fill="#C6A0F6" opacity="0.05">
+    <animate attributeName="y" values="72;302;72" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.02;0.10;0.02" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
