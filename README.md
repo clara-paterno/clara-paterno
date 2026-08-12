@@ -30,7 +30,31 @@ Hi! I'm Clara, a **Computer Engineering student** who is curious about technolog
 </a>
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+<div>
+
+<img src="https://img.shields.io/badge/Python-181926?style=for-the-badge&logo=python&logoColor=C6A0F6" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-181926?style=for-the-badge&logo=openjdk&logoColor=B291DE" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-181926?style=for-the-badge&logo=javascript&logoColor=C6A0F6" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Swift-181926?style=for-the-badge&logo=swift&logoColor=B291DE" alt="Swift"/>
+
+<img src="https://img.shields.io/badge/HTML5-181926?style=for-the-badge&logo=html5&logoColor=C6A0F6" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-181926?style=for-the-badge&logo=css3&logoColor=B291DE" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Flask-181926?style=for-the-badge&logo=flask&logoColor=C6A0F6" alt="Flask"/>
+<img src="https://img.shields.io/badge/Jinja-181926?style=for-the-badge&logo=jinja&logoColor=B291DE" alt="Jinja"/>
+
+<img src="https://img.shields.io/badge/Node--RED-181926?style=for-the-badge&logo=nodered&logoColor=C6A0F6" alt="Node-RED"/>
+<img src="https://img.shields.io/badge/Render-181926?style=for-the-badge&logo=render&logoColor=B291DE" alt="Render"/>
+<img src="https://img.shields.io/badge/Gunicorn-181926?style=for-the-badge&logo=gunicorn&logoColor=C6A0F6" alt="Gunicorn"/>
+<img src="https://img.shields.io/badge/Git-181926?style=for-the-badge&logo=git&logoColor=B291DE" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181926?style=for-the-badge&logo=github&logoColor=C6A0F6" alt="GitHub"/>
+
+<img src="https://img.shields.io/badge/Pandas-181926?style=for-the-badge&logo=pandas&logoColor=B291DE" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Plotly-181926?style=for-the-badge&logo=plotly&logoColor=C6A0F6" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Matplotlib-181926?style=for-the-badge&logo=python&logoColor=B291DE" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Streamlit-181926?style=for-the-badge&logo=streamlit&logoColor=C6A0F6" alt="Streamlit"/>
+
+</div>
 ## 📊 GitHub Stats
 
 <div align="center">
