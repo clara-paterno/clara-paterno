@@ -8,7 +8,6 @@
 
 </div>
 
-# 💫 About Me:
 Hi! I'm Clara, a **Computer Engineering student** who is curious about technology and loves learning by building things.<br><br>I'm always exploring new technologies and challenging myself with different kinds of projects — from **software development and mobile applications to embedded systems, electronics, and IoT**.<br><br>🌱 Always learning something new<br>💻 Turning ideas into projects<br>🔎 Exploring different areas of technology<br>🚀 Looking for opportunities to grow and gain hands-on experience<br>
 
 
@@ -21,5 +20,13 @@ Hi! I'm Clara, a **Computer Engineering student** who is curious about technolog
 ![](https://github-readme-stats.shion.dev/api?username=clara-paterno&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=clara-paterno&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=clara-paterno&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img
+    src="./assets/footer.svg"
+    width="100%"
+    alt="Footer"
+  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
