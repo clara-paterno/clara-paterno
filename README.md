@@ -1,3 +1,13 @@
+<div align="center">
+
+  <img
+    src="./assets/boot-sequence.svg"
+    width="100%"
+    alt="System Initialization"
+  />
+
+</div>
+
 # 💫 About Me:
 Hi! I'm Clara, a **Computer Engineering student** who is curious about technology and loves learning by building things.<br><br>I'm always exploring new technologies and challenging myself with different kinds of projects — from **software development and mobile applications to embedded systems, electronics, and IoT**.<br><br>🌱 Always learning something new<br>💻 Turning ideas into projects<br>🔎 Exploring different areas of technology<br>🚀 Looking for opportunities to grow and gain hands-on experience<br>
 
