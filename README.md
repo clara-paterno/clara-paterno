@@ -29,7 +29,7 @@ Hi! I'm Clara, a **Computer Engineering student** who is curious about technolog
   <img src="https://img.shields.io/badge/Email-181926?style=for-the-badge&logo=gmail&logoColor=B291DE" alt="Email"/>
 </a>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div>
 
@@ -55,6 +55,7 @@ Hi! I'm Clara, a **Computer Engineering student** who is curious about technolog
 <img src="https://img.shields.io/badge/Streamlit-181926?style=for-the-badge&logo=streamlit&logoColor=C6A0F6" alt="Streamlit"/>
 
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
