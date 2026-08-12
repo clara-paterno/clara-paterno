@@ -8,6 +8,15 @@
 
 </div>
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=C6A0F6&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Software+%E2%80%A2+Embedded+Systems+%E2%80%A2+IoT;Building+ideas+into+real+projects;Always+learning+something+new..."
+  alt="Typing SVG"
+/>
+
+</div>
+
 Hi! I'm Clara, a **Computer Engineering student** who is curious about technology and loves learning by building things.<br><br>I'm always exploring new technologies and challenging myself with different kinds of projects — from **software development and mobile applications to embedded systems, electronics, and IoT**.<br><br>🌱 Always learning something new<br>💻 Turning ideas into projects<br>🔎 Exploring different areas of technology<br>🚀 Looking for opportunities to grow and gain hands-on experience<br>
 
 
