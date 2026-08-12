@@ -72,8 +72,6 @@ Hi! I'm Clara, a **Computer Engineering student** who is curious about technolog
   alt="Top Languages"
 />
 
-<br/><br/>
-
 <img
   src="https://streak-stats.demolab.com/?user=clara-paterno&background=181926&border=7A669D&stroke=7A669D&ring=C6A0F6&fire=B291DE&currStreakNum=CAD3F5&sideNums=CAD3F5&currStreakLabel=C6A0F6&sideLabels=B291DE&dates=7A669D"
   alt="GitHub Streak"
