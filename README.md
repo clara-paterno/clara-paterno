@@ -13,6 +13,6 @@ Hi! I'm Clara, a **Computer Engineering student** who is curious about technolog
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=clara-paterno&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=clar-paterno&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=clara-paterno&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
