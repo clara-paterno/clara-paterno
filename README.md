@@ -17,7 +17,14 @@
 
 </div>
 
-Hi! I'm Clara, a **Computer Engineering student** who is curious about technology and loves learning by building things.<br><br>I'm always exploring new technologies and challenging myself with different kinds of projects — from **software development and mobile applications to embedded systems, electronics, and IoT**.<br><br>🌱 Always learning something new<br>💻 Turning ideas into projects<br>🔎 Exploring different areas of technology<br>🚀 Looking for opportunities to grow and gain hands-on experience<br>
+Hi! I'm Clara, a **Computer Engineering student** and **Full-Stack Developer Intern at VORTEX**, curious about technology and passionate about learning by building things.
+
+I enjoy exploring different areas of technology and challenging myself with new projects — from **software development and mobile applications to embedded systems, electronics, and IoT**.
+
+🌱 Always learning and exploring new technologies  
+💻 Turning ideas into real-world projects  
+🔎 Interested in different areas of engineering and technology  
+🚀 Growing as a developer through hands-on experience
 
 ## 🌐 Socials
 
