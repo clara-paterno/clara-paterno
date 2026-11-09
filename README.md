@@ -36,32 +36,66 @@ I enjoy exploring different areas of technology and challenging myself with new 
   <img src="https://img.shields.io/badge/Email-181926?style=for-the-badge&logo=gmail&logoColor=B291DE" alt="Email"/>
 </a>
 
+
 ## 💻 Tech Stack:
+
+### Languages
 
 <div>
 
 <img src="https://img.shields.io/badge/Python-181926?style=for-the-badge&logo=python&logoColor=C6A0F6" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-181926?style=for-the-badge&logo=openjdk&logoColor=B291DE" alt="Java"/>
 <img src="https://img.shields.io/badge/JavaScript-181926?style=for-the-badge&logo=javascript&logoColor=C6A0F6" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Swift-181926?style=for-the-badge&logo=swift&logoColor=B291DE" alt="Swift"/>
-
-<img src="https://img.shields.io/badge/HTML5-181926?style=for-the-badge&logo=html5&logoColor=C6A0F6" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-181926?style=for-the-badge&logo=css3&logoColor=B291DE" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Flask-181926?style=for-the-badge&logo=flask&logoColor=C6A0F6" alt="Flask"/>
-<img src="https://img.shields.io/badge/Jinja-181926?style=for-the-badge&logo=jinja&logoColor=B291DE" alt="Jinja"/>
-
-<img src="https://img.shields.io/badge/Node--RED-181926?style=for-the-badge&logo=nodered&logoColor=C6A0F6" alt="Node-RED"/>
-<img src="https://img.shields.io/badge/Render-181926?style=for-the-badge&logo=render&logoColor=B291DE" alt="Render"/>
-<img src="https://img.shields.io/badge/Gunicorn-181926?style=for-the-badge&logo=gunicorn&logoColor=C6A0F6" alt="Gunicorn"/>
-<img src="https://img.shields.io/badge/Git-181926?style=for-the-badge&logo=git&logoColor=B291DE" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181926?style=for-the-badge&logo=github&logoColor=C6A0F6" alt="GitHub"/>
-
-<img src="https://img.shields.io/badge/Pandas-181926?style=for-the-badge&logo=pandas&logoColor=B291DE" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Plotly-181926?style=for-the-badge&logo=plotly&logoColor=C6A0F6" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Matplotlib-181926?style=for-the-badge&logo=python&logoColor=B291DE" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Streamlit-181926?style=for-the-badge&logo=streamlit&logoColor=C6A0F6" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/TypeScript-181926?style=for-the-badge&logo=typescript&logoColor=B291DE" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Swift-181926?style=for-the-badge&logo=swift&logoColor=C6A0F6" alt="Swift"/>
+<img src="https://img.shields.io/badge/HTML5-181926?style=for-the-badge&logo=html5&logoColor=B291DE" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-181926?style=for-the-badge&logo=css3&logoColor=C6A0F6" alt="CSS3"/>
 
 </div>
+
+### Frameworks & Technologies
+
+<div>
+
+<img src="https://img.shields.io/badge/React-181926?style=for-the-badge&logo=react&logoColor=C6A0F6" alt="React"/>
+<img src="https://img.shields.io/badge/React_Native-181926?style=for-the-badge&logo=react&logoColor=B291DE" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-181926?style=for-the-badge&logo=expo&logoColor=C6A0F6" alt="Expo"/>
+<img src="https://img.shields.io/badge/Node.js-181926?style=for-the-badge&logo=nodedotjs&logoColor=B291DE" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-181926?style=for-the-badge&logo=express&logoColor=C6A0F6" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Prisma-181926?style=for-the-badge&logo=prisma&logoColor=B291DE" alt="Prisma"/>
+<img src="https://img.shields.io/badge/Flask-181926?style=for-the-badge&logo=flask&logoColor=C6A0F6" alt="Flask"/>
+<img src="https://img.shields.io/badge/Jinja-181926?style=for-the-badge&logo=jinja&logoColor=B291DE" alt="Jinja"/>
+<img src="https://img.shields.io/badge/Node--RED-181926?style=for-the-badge&logo=nodered&logoColor=C6A0F6" alt="Node-RED"/>
+<img src="https://img.shields.io/badge/Streamlit-181926?style=for-the-badge&logo=streamlit&logoColor=B291DE" alt="Streamlit"/>
+
+</div>
+
+### Databases & Data Science
+
+<div>
+
+<img src="https://img.shields.io/badge/PostgreSQL-181926?style=for-the-badge&logo=postgresql&logoColor=C6A0F6" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-181926?style=for-the-badge&logo=mysql&logoColor=B291DE" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Pandas-181926?style=for-the-badge&logo=pandas&logoColor=C6A0F6" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Plotly-181926?style=for-the-badge&logo=plotly&logoColor=B291DE" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Matplotlib-181926?style=for-the-badge&logo=python&logoColor=C6A0F6" alt="Matplotlib"/>
+
+</div>
+
+### Tools & Deployment
+
+<div>
+
+<img src="https://img.shields.io/badge/Git-181926?style=for-the-badge&logo=git&logoColor=C6A0F6" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181926?style=for-the-badge&logo=github&logoColor=B291DE" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Vite-181926?style=for-the-badge&logo=vite&logoColor=C6A0F6" alt="Vite"/>
+<img src="https://img.shields.io/badge/Vitest-181926?style=for-the-badge&logo=vitest&logoColor=B291DE" alt="Vitest"/>
+<img src="https://img.shields.io/badge/Render-181926?style=for-the-badge&logo=render&logoColor=C6A0F6" alt="Render"/>
+<img src="https://img.shields.io/badge/Vercel-181926?style=for-the-badge&logo=vercel&logoColor=B291DE" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Gunicorn-181926?style=for-the-badge&logo=gunicorn&logoColor=C6A0F6" alt="Gunicorn"/>
+
+</div>
+
 
 ## 📊 GitHub Stats
 
